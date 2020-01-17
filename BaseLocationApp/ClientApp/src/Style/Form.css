@@ -1,0 +1,13 @@
+input.error {
+    border-color: red;
+    background-color:lightyellow
+}
+.input-feedback {
+    color: red;
+}
+.form-Group{
+    padding:10px;
+}
+.FormSubmit {
+    /*border: solid 1px lightblue;*/
+}
